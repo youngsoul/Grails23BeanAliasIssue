@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MainApp.iml" filepath="$PROJECT_DIR$/MainApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainApp-grailsPlugins.iml" filepath="$PROJECT_DIR$/MainApp-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature1Plugin-inplacePlugin.iml" filepath="$PROJECT_DIR$/feature1Plugin-inplacePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature2Plugin-inplacePlugin.iml" filepath="$PROJECT_DIR$/feature2Plugin-inplacePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature3Plugin-inplacePlugin.iml" filepath="$PROJECT_DIR$/feature3Plugin-inplacePlugin.iml" />
+    </modules>
+  </component>
+</project>
+
