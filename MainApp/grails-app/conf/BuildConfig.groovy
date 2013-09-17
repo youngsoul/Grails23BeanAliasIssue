@@ -50,6 +50,8 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
+
+      /* ======================  Grails 2.2.4 Build Config Settings  ========================
         runtime ":hibernate:$grailsVersion"
         runtime ":jquery:1.8.3"
         runtime ":resources:1.2"
@@ -66,9 +68,10 @@ grails.project.dependency.resolution = {
         compile ':cache:1.0.1'
 
       compile ':console:1.2'
+      */
 
 
-      /*  grails 2.3
+      /* ======================== Grails 2.3 Build Config Settings ======================== */
 
             build ":tomcat:7.0.42"
 
@@ -88,6 +91,6 @@ grails.project.dependency.resolution = {
 
       compile ":console:1.2"
 
-       */
+
     }
 }

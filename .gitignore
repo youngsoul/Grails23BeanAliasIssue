@@ -21,7 +21,7 @@
 *Db.script
 
 # logs
-/stacktrace.log
+**/stacktrace.log
 /test/reports
 /logs
 
@@ -37,8 +37,9 @@
 
 # "temporary" build files
 /target
-
+*/target/stacktrace.log
 # other
 *.iws
 
+*/target/classes
 
